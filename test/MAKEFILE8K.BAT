@@ -7,7 +7,7 @@ SET CFILENAME=HelloWorld
 SET ROMFILENAME=HELLOW8K
 SET CODELOC=0x4020
 SET ROMSIZE=2000
-SET CRT=libs\crt_MSX816kROM4000.rel
+SET CRT=libs\crt0_MSX816kROM4000.rel
 REM add paths from our objects files into LIBn variables
 REM don't erase empty variables
 SET LIB0=
